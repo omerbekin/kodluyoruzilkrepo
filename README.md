@@ -7,6 +7,7 @@ Connect 3 isimli XOX klonu bir oyun. Ilk küçük oyunum.
 
 ## Installation
 Öncelikle projeyi clonelayın.
+
 `https://github.com/omerbekin/kodluyoruzilkrepo.git`
 
 ## Usage
