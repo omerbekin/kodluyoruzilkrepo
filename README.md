@@ -2,6 +2,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Connect 3 isimli XOX klonu bir oyun. Ilk küçük oyunum.
+
 ![Proje Resmi](https://raw.githubusercontent.com/omerbekin/kodluyoruzilkrepo/main/Connect3.jpg)
 
 ## Installation
