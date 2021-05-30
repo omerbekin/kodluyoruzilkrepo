@@ -12,6 +12,7 @@ Connect 3 isimli XOX klonu bir oyun. Ilk küçük oyunum.
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için.
+
 '''
 cd kodluyoruzilkrepo
 code .
